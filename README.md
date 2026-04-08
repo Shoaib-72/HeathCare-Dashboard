@@ -34,7 +34,7 @@ What is the average BMI and age profile of the patient population?
 
 📸 Dashboard Preview
 Show what the dashboard looks like.
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+Example: ![Dashboard Preview](https://github.com/Shoaib-72/HeathCare-Dashboard/blob/main/Health%20Care%20Dashboard.png)
 
 
 💡 Example Use Case
