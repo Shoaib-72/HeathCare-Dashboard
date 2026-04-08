@@ -33,8 +33,7 @@ What is the average BMI and age profile of the patient population?
 
 
 📸 Dashboard Preview
-
-<p align="center"><img src="Health_Care_Dashboard.png" width="900"/></p>
+[Dashboard]()
 
 💡 Example Use Case
 A hospital's public health team uses this dashboard to identify that patients aged 29–48 show the highest daily cigarette consumption, while the 69+ group shows peak cholesterol risk — enabling targeted intervention programs for each demographic.
